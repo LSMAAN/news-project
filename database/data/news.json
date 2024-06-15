@@ -1,0 +1,298 @@
+{
+    "@xmlns:atom": "http://www.w3.org/2005/Atom",
+    "@version": "2.0",
+    "channel": {
+        "title": "Mumbai News: Latest Mumbai News Headlines, Coronavirus News, BMC Elections 2022 Updates from Mumbai - Times of India",
+        "link": "https://timesofindia.indiatimes.com/city/mumbai",
+        "description": "Mumbai News Live: Check the latest Mumbai news, coronavirus headlines & breaking news about Mumbai, BMC Elections 2022, Corona virus, Mumbai crime news, education news, real estate news, politics news, Mumbai rain news and Live Updates on Mumbai local news from Times of India",
+        "language": "en-gb",
+        "lastBuildDate": "2024-06-14T12:55:38+05:30",
+        "atom:link": {
+            "@xmlns:atom": "http://www.w3.org/2005/Atom",
+            "@type": "application/rss+xml",
+            "@rel": "self",
+            "@href": "https://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms"
+        },
+        "copyright": "Copyright:(C) Fri, 14 Jun 2024 12:55:38 IST Bennett Coleman & Co. Ltd, http://in.indiatimes.com/policyterms/1554651.cms",
+        "docs": "http://syndication.indiatimes.com/",
+        "image": {
+            "title": "Mumbai News: Latest Mumbai News Headlines, Coronavirus News, BMC Elections 2022 Updates from Mumbai - Times of India",
+            "url": "https://timesofindia.indiatimes.com/photo/507610.cms",
+            "link": "https://timesofindia.indiatimes.com/city/mumbai"
+        },
+        "item": [
+            {
+                "title": "IMD predicts rain for 24 hours as showers return to Mumbai after two-day break",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/imd-predicts-rain-for-24-hours-as-showers-return-to-mumbai-after-two-day-break/articleshow/110986936.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110986936.cms\" /></a>Rain showers returned to most parts of Mumbai on Friday morning, bringing relief from hot and humid conditions. No major waterlogging was reported. IMD forecasted a cloudy sky with the possibility of rain over the next 24 hours.",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/imd-predicts-rain-for-24-hours-as-showers-return-to-mumbai-after-two-day-break/articleshow/110986936.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/imd-predicts-rain-for-24-hours-as-showers-return-to-mumbai-after-two-day-break/articleshow/110986936.cms",
+                "pubDate": "2024-06-14T11:03:32+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "TOI City Desk"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110987085,imgsize-973679.cms"
+                }
+            },
+            {
+                "title": "Power cut for over 5 hours in parts of South Mumbai",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/power-cut-for-over-5-hours-in-parts-of-south-mumbai/articleshow/110982690.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110982690.cms\" /></a>Residents and shopkeepers in parts of Bhuleshwar and Kalbadevi faced prolonged power outages, with complaints to BEST going unanswered. The situation worsened as power cuts continued late into the night.",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/power-cut-for-over-5-hours-in-parts-of-south-mumbai/articleshow/110982690.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/power-cut-for-over-5-hours-in-parts-of-south-mumbai/articleshow/110982690.cms",
+                "pubDate": "2024-06-14T08:16:17+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Somit Sen"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110983359,imgsize-1653966.cms"
+                }
+            },
+            {
+                "title": "Bombay high court to bank: Pay company Rs 76 lakh it lost to third-party cyber fraud",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/bombay-high-court-to-bank-pay-company-rs-76-lakh-it-lost-to-third-party-cyber-fraud/articleshow/110982296.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110982296.cms\" /></a>Bank of Baroda to refund Rs 76 lakh lost to online fraud. Transactions on public holiday. Aditi Pathak represented ombudsman in the case.",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/bombay-high-court-to-bank-pay-company-rs-76-lakh-it-lost-to-third-party-cyber-fraud/articleshow/110982296.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/bombay-high-court-to-bank-pay-company-rs-76-lakh-it-lost-to-third-party-cyber-fraud/articleshow/110982296.cms",
+                "pubDate": "2024-06-14T07:43:35+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Swati Deshpande"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110982336,imgsize-144868.cms"
+                }
+            },
+            {
+                "title": "Return to petitioners Rs 76 lakh lost in cyber fraud, HC tells Bank of Baroda",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/return-to-petitioners-rs-76-lakh-lost-in-cyber-fraud-hc-tells-bank-of-baroda/articleshow/110977847.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110977847.cms\" /></a>",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/return-to-petitioners-rs-76-lakh-lost-in-cyber-fraud-hc-tells-bank-of-baroda/articleshow/110977847.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/return-to-petitioners-rs-76-lakh-lost-in-cyber-fraud-hc-tells-bank-of-baroda/articleshow/110977847.cms",
+                "pubDate": "2024-06-14T02:40:12+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Swati Deshpande"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110977882,imgsize-702611.cms"
+                }
+            },
+            {
+                "title": "Mumbai doctor finds part of human finger in ice cream cone made by Ghaziabad company",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/mumbai-doctor-finds-part-of-human-finger-in-ice-cream-cone-made-by-ghaziabad-company/articleshow/110977791.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110977791.cms\" /></a>A Malad-based doctor found a human finger in a Yummo ice cream ordered via Zepto app. The incident led to an FIR against the ice cream brand's staff.",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-doctor-finds-part-of-human-finger-in-ice-cream-cone-made-by-ghaziabad-company/articleshow/110977791.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-doctor-finds-part-of-human-finger-in-ice-cream-cone-made-by-ghaziabad-company/articleshow/110977791.cms",
+                "pubDate": "2024-06-14T02:18:42+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Nitasha Natu"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110988181,imgsize-936508.cms"
+                }
+            },
+            {
+                "title": "After Lok Sabha loss, Ajit Pawar's wife files Rajya Sabha nomination",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/after-lok-sabha-loss-ajit-pawars-wife-files-rajya-sabha-nomination/articleshow/110977759.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110977759.cms\" /></a>A week after her defeat in the Lok Sabha polls, NCP president and deputy chief minister Ajit Pawar’s wife Sunetra filed her nomination papers for the Rajya Sabha seat left vacant by Praful Patel’s resignation. Since there’s only one candidate from the state, she will be elected unopposed. Patel, who is NCP working president, was also re-elected to the Rajya Sabha a month ago.",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/after-lok-sabha-loss-ajit-pawars-wife-files-rajya-sabha-nomination/articleshow/110977759.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/after-lok-sabha-loss-ajit-pawars-wife-files-rajya-sabha-nomination/articleshow/110977759.cms",
+                "pubDate": "2024-06-14T02:06:35+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Prafulla Marpakwar"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110977770,imgsize-30930.cms"
+                }
+            },
+            {
+                "title": "HC relief for med student in practical exam marks",
+                "description": "",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/hc-relief-for-med-student-in-practical-exam-marks/articleshow/110980581.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/hc-relief-for-med-student-in-practical-exam-marks/articleshow/110980581.cms",
+                "pubDate": "2024-06-14T04:44:22+05:30",
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110980581,imgsize-.cms"
+                }
+            },
+            {
+                "title": "Maharashtra excise dept seizes Rs 1 crore ganja from SUV in Taloja; 2 held",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/excise-department-seizes-1cr-ganja-from-suv-in-taloja-2-arrested/articleshow/110980554.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110980554.cms\" /></a>Maharashtra state excise seized 414kg marijuana worth over Rs 1 crore, one of the largest confiscations. Flying squad intercepted an SUV in Panvel, arrested two residents, and seized 27 gunny bags of contraband.",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/excise-department-seizes-1cr-ganja-from-suv-in-taloja-2-arrested/articleshow/110980554.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/excise-department-seizes-1cr-ganja-from-suv-in-taloja-2-arrested/articleshow/110980554.cms",
+                "pubDate": "2024-06-14T04:43:48+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Chittaranjan Tembhekar"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110983935,imgsize-615815.cms"
+                }
+            },
+            {
+                "title": "‘Consumer mkt driven by youth’",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/indias-consumer-market-driven-by-youth/articleshow/110980400.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110980400.cms\" /></a>",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/indias-consumer-market-driven-by-youth/articleshow/110980400.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/indias-consumer-market-driven-by-youth/articleshow/110980400.cms",
+                "pubDate": "2024-06-14T04:40:25+05:30",
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110980397,imgsize-862720.cms"
+                }
+            },
+            {
+                "title": "HC refuses to stay nod to 114 slaughter sites for Eid",
+                "description": "",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/bombay-high-court-refuses-interim-stay-on-114-slaughter-sites-for-eid/articleshow/110980147.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/bombay-high-court-refuses-interim-stay-on-114-slaughter-sites-for-eid/articleshow/110980147.cms",
+                "pubDate": "2024-06-14T04:34:41+05:30",
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110980147,imgsize-.cms"
+                }
+            },
+            {
+                "title": "CR ups safety on ghats with nets",
+                "description": "",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/central-railway-enhances-safety-measures-on-ghats-with-nets/articleshow/110979960.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/central-railway-enhances-safety-measures-on-ghats-with-nets/articleshow/110979960.cms",
+                "pubDate": "2024-06-14T04:30:36+05:30",
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110979960,imgsize-.cms"
+                }
+            },
+            {
+                "title": "Draft hoarding policy covers ads on biz premises, skywalks, balloons",
+                "description": "",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/draft-hoarding-policy-covers-ads-on-biz-premises-skywalks-balloons/articleshow/110979940.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/draft-hoarding-policy-covers-ads-on-biz-premises-skywalks-balloons/articleshow/110979940.cms",
+                "pubDate": "2024-06-14T04:29:46+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Richa Pinto"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110979940,imgsize-.cms"
+                }
+            },
+            {
+                "title": "Data sci, AI, films...Mumbai colleges see rush for applied subjects",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/colleges-see-rush-for-applied-subjects/articleshow/110979926.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110979926.cms\" /></a>Degree colleges in Mumbai see a rise in applications for applied subjects like data science and artificial intelligence, impacting traditional courses. Cutoffs show minor changes, with popular choices gaining prominence.",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/colleges-see-rush-for-applied-subjects/articleshow/110979926.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/colleges-see-rush-for-applied-subjects/articleshow/110979926.cms",
+                "pubDate": "2024-06-14T04:29:25+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Hemali Chhapia and Yogita Rao"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110982287,imgsize-1552889.cms"
+                }
+            },
+            {
+                "title": "Adani buys Penna Cement from Reddys in ₹10k cr deal",
+                "description": "",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/adani-acquires-penna-cement-from-reddys-in-10k-cr-deal/articleshow/110979892.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/adani-acquires-penna-cement-from-reddys-in-10k-cr-deal/articleshow/110979892.cms",
+                "pubDate": "2024-06-14T04:28:46+05:30",
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110979892,imgsize-.cms"
+                }
+            },
+            {
+                "title": "No dispute in NCP over Sunetra Pawar Rajya Sabha nomination: Praful Patel",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/no-dispute-in-party-over-sunetra-pawar-rajya-sabha-nomination-praful-patel/articleshow/110979876.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110979876.cms\" /></a>NCP president Ajit Pawar's wife Sunetra filed nomination papers for the Rajya Sabha seat in the presence of NCP leaders Ajit Pawar, Praful Patel, Sunil Tatkare, and Chhagan Bhujbal.",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/no-dispute-in-party-over-sunetra-pawar-rajya-sabha-nomination-praful-patel/articleshow/110979876.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/no-dispute-in-party-over-sunetra-pawar-rajya-sabha-nomination-praful-patel/articleshow/110979876.cms",
+                "pubDate": "2024-06-14T04:28:24+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Prafulla Marpakwar"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110982677,imgsize-511105.cms"
+                }
+            },
+            {
+                "title": "Day 2: 26,000 vehicles use northbound Coastal Rd",
+                "description": "",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/26000-vehicles-use-northbound-coastal-rd/articleshow/110979856.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/26000-vehicles-use-northbound-coastal-rd/articleshow/110979856.cms",
+                "pubDate": "2024-06-14T04:27:59+05:30",
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110979856,imgsize-.cms"
+                }
+            },
+            {
+                "title": "Maharashtra nod for handing over 8.5 hectares of Kurla dairy land",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/state-nod-for-handing-over-85-ha-of-kurla-dairy-land/articleshow/110979847.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110979847.cms\" /></a>The Centre has not approved the release of 283 acres of salt pan for ineligible residents of Dharavi. State govt approved handing over 8.5 hectares of Kurla Dairy land to Dharavi Redevelopment Project Pvt Ltd.",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/state-nod-for-handing-over-85-ha-of-kurla-dairy-land/articleshow/110979847.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/state-nod-for-handing-over-85-ha-of-kurla-dairy-land/articleshow/110979847.cms",
+                "pubDate": "2024-06-14T04:27:53+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Clara Lewis"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110982413,imgsize-817180.cms"
+                }
+            },
+            {
+                "title": "Mahayuti allies in friendly fight for Mumbai teachers’ seat",
+                "description": "",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/mahayuti-allies-in-friendly-fight-for-mumbai-teachers-seat/articleshow/110979839.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/mahayuti-allies-in-friendly-fight-for-mumbai-teachers-seat/articleshow/110979839.cms",
+                "pubDate": "2024-06-14T04:27:39+05:30",
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110979839,imgsize-.cms"
+                }
+            },
+            {
+                "title": "Perhaps party thought I was not suitable for Rajya Sabha bypoll: Chhagan Bhujbal",
+                "description": "<a href=\"https://timesofindia.indiatimes.com/city/mumbai/partys-decision-on-rs-bypoll-hurt-chhagan-bhujbal-says-ncp-mla/articleshow/110979805.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110979805.cms\" /></a>NCP MLAs express discontent over party's choice of Sunetra Pawar for Rajya Sabha, bypassing senior leader Chhagan Bhujbal, who felt hurt by the decision.",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/partys-decision-on-rs-bypoll-hurt-chhagan-bhujbal-says-ncp-mla/articleshow/110979805.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/partys-decision-on-rs-bypoll-hurt-chhagan-bhujbal-says-ncp-mla/articleshow/110979805.cms",
+                "pubDate": "2024-06-14T04:26:54+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Anurag Bende, Prafulla Marpakwar, Ranjan Dasgupta"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110982481,imgsize-640752.cms"
+                }
+            },
+            {
+                "title": "Now, scouts & guides uniform for all students",
+                "description": "",
+                "link": "https://timesofindia.indiatimes.com/city/mumbai/scouts-guides-uniform-for-all-students/articleshow/110979769.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/mumbai/scouts-guides-uniform-for-all-students/articleshow/110979769.cms",
+                "pubDate": "2024-06-14T04:26:10+05:30",
+                "dc:creator": {
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "#text": "Sandhya Nair"
+                },
+                "enclosure": {
+                    "@type": "image/jpeg",
+                    "@url": "https://static.toiimg.com/photo/msid-110979769,imgsize-.cms"
+                }
+            }
+        ]
+    }
+}
