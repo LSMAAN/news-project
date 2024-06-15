@@ -17,6 +17,7 @@ Database : MySQL
 - add new db in the .env file
 - run php artisan key:generate
 - run php artisan migrate
+- run php artisan db:seed --class=NewsItemSeeder
 - run php artisan serve
 - Open web browser and go to 'http://127.0.0.1:8000/news' 
 
